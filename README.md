@@ -1,4 +1,4 @@
-<h1 class="heading-element" dir="auto"> Itai Itah - AI expert: From foundation to mastery</h1>
+<h1 class="heading-element" dir="auto"> Itai Itah - AI expert</h1>
 
 <!--
 **itaiitah/itaiitah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
