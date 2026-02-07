@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/itaiitah)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/itai.itah)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ItaiItah)
+
+
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto">🛠️Featured GitHub Repositories</h2>
+<a id="user-content-️-featured-github-repositories" class="anchor">Python basics</a>
+</div>
