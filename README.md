@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 <div class="markdown-heading" dir="auto">
 <h2 class="heading-element" dir="auto">🛠️Featured GitHub Repositories</h2>
-<a id="user-content-️-featured-github-repositories" class="anchor">Python basics</a>
+<a class="anchor" href="https://github.com/itaiitah/pythone-basics">Python basics</a>
 </div>
